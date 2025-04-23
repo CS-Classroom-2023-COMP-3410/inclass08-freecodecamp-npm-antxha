@@ -1,7 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Antony Ha",
+	"description": "A project that does something awesome",
+	"keywords": ["freecodecamp","inclass"],
+	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
